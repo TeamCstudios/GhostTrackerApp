@@ -6,6 +6,14 @@ An app to report ghost sightings and view those others have found!
 
 ## Alpha
 
+### Version 0.4
+Adds:
+- Aesthetic improvements
+- Settings Screen
+- Tray buttons on map screen
+Fixes:
+- #2
+
 ### Version 0.3
 Adds:
 - Refine Launch screen with button
