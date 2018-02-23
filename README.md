@@ -11,6 +11,7 @@ Adds:
 - Aesthetic improvements
 - Settings Screen
 - Tray buttons on map screen
+
 Fixes:
 - #2
 
@@ -24,6 +25,7 @@ Adds:
 Adds:
 - Zoom buttons
 - An intro (kinda)
+
 Fixes
 - #1
 
